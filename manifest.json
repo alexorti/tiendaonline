@@ -1,7 +1,7 @@
 {
     "short_name":"TiendaOnLine",
     "name":"App para ventas comerciales",
-    "start_url":"index.php",
+    "start_url":"index.html",
     "background_color": "rgb(246, 173, 18)",
     "theme_color":"rgb(246, 173, 18)",
     "display":"standalone",
